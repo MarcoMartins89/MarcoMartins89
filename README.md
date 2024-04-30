@@ -1,4 +1,4 @@
-# Hi there I'm Marco:
+# Hi there, I'm Marco 👋
 I'm a 39 years old aspiring programmer, father of three.<br>As I just finished my 14 weeks immersive programming bootcamp at Code For All, <br>I'm full on, in diving mode, in the programming world 
 
 
