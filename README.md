@@ -14,6 +14,9 @@ While embracing this adventure I realized that I love problem-solving and the ch
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
+## 📄 My cv:
+[Click me](https://github.com/MarcoMartins89/CV/blob/main/CV%20Marco%20Martins.pdf)
+
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
