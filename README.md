@@ -1,5 +1,9 @@
 # Hi there, I'm Marco 👋
-I'm a 39 years old aspiring programmer, father of three.<br>As I just finished my 14 weeks immersive programming bootcamp at Code For All, <br>I'm full on, in diving mode, in the programming world 
+Eager to learn, master of spilling thoughts, and a lover of the programming world. 
+
+Started the adventure of programming, and after finishing my bootcamp, I continue my learning journey, developing my skills and mastering how to deal with frustration and overcoming it. 💪
+
+While embracing this adventure I realized that I love problem-solving and the challenges that come with it, every line of code is an acquired knowledge, every block is an achievement, and for every program that runs without errors is a victory to enjoy, and a building block for the next code to write. 🖥️ 🧑🏻‍💻🧱
 
 
 ## 🌐 Socials:
