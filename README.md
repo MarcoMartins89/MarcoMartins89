@@ -15,7 +15,7 @@ While embracing this adventure I realized that I love problem-solving and the ch
 </a>
 
 ## 📄 My cv:
-[Click me](https://github.com/MarcoMartins89/CV/blob/main/CV%20Marco%20Martins.pdf)
+[Click me](https://marcomartins.tiiny.site/)
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
